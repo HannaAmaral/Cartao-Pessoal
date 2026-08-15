@@ -4,7 +4,6 @@ const filesToCache = [
     './',
     './index.html',
     './manifest.webmanifest',
-    './css/style.css',
     './js/main.js'
 ];
 
